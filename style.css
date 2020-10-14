@@ -1,0 +1,54 @@
+body {
+  background-image: url(https://images.pexels.com/photos/1310847/pexels-photo-1310847.jpeg?cs=srgb&dl=pexels-vincent-ma-janssen-1310847.jpg&fm=jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+ul {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #f2df57;
+  text-shadow: black 3px 3px 5px;
+  border: solid black 5px;
+}
+
+h2 {
+  color: #f23f9f;
+  text-shadow: black 3px 3px 5px;
+}
+
+li {
+  border: solid black 2px;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px 5px;
+  color: black;
+  background-color: #27ddf2;
+}
+
+ul {
+  text-align: center;
+}
+
+article {
+  display: inline-block;
+  width: 700px;
+  padding: 5px;
+  margin: 20px 10px;
+}
+
+#poke {
+  background-color: #a61b65;
+}
+
+#pikachu {
+  background-color: #2398a6;
+}
+
+.squirtle {
+  color: #a61b65;
+  text-shadow: black 3px 3px 8px;
+}
