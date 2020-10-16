@@ -46,6 +46,7 @@ article {
 
 #pikachu {
   background-color: #2398a6;
+  width: 70%;
 }
 
 .squirtle {
@@ -55,4 +56,11 @@ article {
 
 .bulbasaur {
   color: #2398a6;
+}
+
+.squirt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
